@@ -1,7 +1,7 @@
 # ParcelPro - Parcel Management System
 
 <p align="left">
-  <img src="https://i.ibb.co.com/ymD3r0fM/Screenshot-From-2026-07-03-12-34-23.png" alt="Screenshot" width="500" />
+  <img src="https://i.ibb.co.com/ymD3r0fM/Screenshot-From-2026-07-03-12-34-23.png" alt="Screenshot" width="1250" />
 </p>
 
 **ParcelPro** is a modern Parcel Management System built with the MERN stack, designed to make parcel booking, delivery assignment, and parcel tracking smooth and efficient.
